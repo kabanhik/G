@@ -7,10 +7,10 @@ import random
 from datetime import datetime
 
 # Set up OpenAI API
-openai.api_key = os.getenv("OPENAI_API_KEY")
+openai.api_key = os.getenv(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)
 
 # Telegram Bot Token
-TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
+TELEGRAM_TOKEN = os.getenv(8010455197:AAFVnU92gdjq15TXO226UKtd5o_-EhOnTvo)
 
 # Zodiac signs
 ZODIAC_SIGNS = [
